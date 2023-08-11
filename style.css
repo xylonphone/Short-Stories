@@ -1,0 +1,56 @@
+h1 {
+  margin-top: 2%;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.para1 {
+  background-color: aquamarine;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-indent: 30px;
+  color: rgb(243, 0, 252);
+  padding-left: 1%;
+  padding-right: 1%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+body {
+  background-color: rgb(247, 240, 240);
+}
+
+#author {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.para2 {
+  background-color: rgb(236, 63, 98);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: darkblue;
+  padding: .5%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.para3 {
+  background-color: darkgreen;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+p {
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-left: 32%;
+  margin-right: 32%;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: white;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
